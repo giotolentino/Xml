@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <music>
+        <song name = "Buloy">
+            <song_title>Buloy</song_title>
+                <band_name>Parokya ni Edgar</band_name>
+                    <released>1996</released>
+                        <producer>Robert Javier</producer>
+                            <songwriter>Chito Miranda</songwriter>
+                            <youtube_pages>
+                                    <views>5.7M</views>
+                                        <commentators_name>
+                                            <commentator_1>Kim Darryl Ascutia</commentator_1>
+                                            <commentator_2>michelle angellie pitargue</commentator_2>
+                                            <commentator_3>TUMANAN JAYSON R.</commentator_3>
+                                            <commentator_4>L Yagami</commentator_4>
+                                            <commentator_5>Jay Hernandez</commentator_5>
+                                            <commentator_6>Lribeeen</commentator_6>
+                                        </commentators_name>
+                            </youtube_pages>
+        </song>
+
+        <song name ="Pangako">
+            <song_title>Pangako</song_title>
+                <band_name>Cueshé</band_name>
+                    <released>September 2, 2010</released>
+                        <director>TREB MONTERAS II</director>
+                            <editor>THENIELLE MONTERAS</editor>
+                                <youtube_pages>
+                                    <views>12M</views>
+                                        <commentators_name>
+                                            <commentator_1>02_Nighfall</commentator_1>
+                                            <commentator_2>Lynn Enopia</commentator_2>
+                                            <commentator_3>Drop a code if u please</commentator_3>
+                                            <commentator_4>Jo-an Espejo</commentator_4>
+                                            <commentator_5>haruki</commentator_5>
+                                            <commentator_6>missarkien</commentator_6>
+                                        </commentators_name>
+                                </youtube_pages>
+        </song>
+
+        <song name = "Pare Ko">
+            <song_title>Pare Ko</song_title>
+                <band_name>Eraserheads</band_name>
+                    <released>1994</released>
+                        <producer>Ed Formoso</producer>
+                            <songwriter>Ely Buendia</songwriter>
+                                <youtube_pages>
+                                    <views>15M</views>
+                                        <commentators_name>
+                                            <commentator_1>Falconer the Gilgamesh</commentator_1>
+                                            <commentator_2>Andrei Kun</commentator_2>
+                                            <commentator_3>John Maynard Albino</commentator_3>
+                                            <commentator_4>Ringo Monsanto</commentator_4>
+                                            <commentator_5>lyka consistente</commentator_5>
+                                            <commentator_6>mariam camama</commentator_6>
+                                        </commentators_name>
+                                </youtube_pages>
+        </song>
+
+        <song name = "Narda">
+            <song_title>Narda</song_title>
+                <band_name>Kamikazee</band_name>
+                    <released>2006</released>
+                         <band_list>
+                            <drummer>Ryan Villena</drummer>
+                            <bassist>Wincy Aquino Ong</bassist>
+                            <vocalist>Katwo Librando</vocalist>
+                            <guitarists>
+                                <guitarist_1>JV Javier</guitarist_1>  
+                                <guitarist_2>Ed Ibarra</guitarist_2>  
+                            </guitarists>
+                         </band_list>
+                            <youtube_pages>
+                                <views>11M</views>
+                                    <commentators_name>
+                                        <commentator_1>Joana Dela fuerte</commentator_1>
+                                        <commentator_2>Blezelda Balason</commentator_2>
+                                        <commentator_3>Ben</commentator_3>
+                                        <commentator_4>John Rex Teologia</commentator_4>
+                                        <commentator_5>Jhun Luis Ringor</commentator_5>
+                                        <commentator_6>Ero</commentator_6>
+                                    </commentators_name>
+                            </youtube_pages>
+        </song>
+
+        <song name = "Salamat">
+            <song_title>Salamat</song_title>
+                <band_name>The Dawn</band_name>
+                    <released>1989</released>
+                        <composers>
+                            <composer_1>Teddy Diaz</composer_1>
+                            <composer_2>Jett Pangan</composer_2>
+                            <composer_3>Carlos Balcells</composer_3>
+                            <composer_4>JB Leonor</composer_4>
+                        </composers>
+                            <youtube_pages>
+                                <views>3M</views>
+                                    <commentators_name>
+                                        <commentator_1>ewica</commentator_1>
+                                        <commentator_2>Morg TV</commentator_2>
+                                        <commentator_3>Deron Joshua Magante</commentator_3>
+                                        <commentator_4>Winged Hussar Polandball</commentator_4>
+                                        <commentator_5>Phyrozz</commentator_5>
+                                        <commentator_6>Time Warp</commentator_6>
+                                    </commentators_name>     
+                            </youtube_pages>                 
+        </song>
+
+        <song name = "Magbalik">
+            <song_title>Magbalik</song_title>
+                <band_name>Callalily</band_name>
+                     <released>July 17, 2006</released>
+                        <songwriters>
+                            <songwriter_1>Callalily</songwriter_1>
+                            <songwriter_2>Kean Cipriano</songwriter_2>
+                        </songwriters>
+                            <tags>
+                                <tag_1>Callalilly</tag_1>
+                                <tag_2> OPM</tag_2>
+                                <tag_3>Music</tag_3>
+                            </tags>
+                                <youtube_pages>
+                                    <views>29M</views>
+                                        <commentators_name>
+                                        <commentator_1>Bert Without Ernie</commentator_1>
+                                        <commentator_2>Helena Joy Esclamado</commentator_2>
+                                        <commentator_3>Zono C</commentator_3>
+                                        <commentator_4>Da Odiña</commentator_4>
+                                        <commentator_5>Addie Reacts</commentator_5>
+                                        <commentator_6>Yowanzu</commentator_6>
+                                    </commentators_name> 
+                                </youtube_pages>
+    </song>
+    
+    </music>
